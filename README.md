@@ -12,6 +12,7 @@
 - PHP
 - MySQL
 - SASS
+
 **Entre outros**
   
 ## 💼 Projetos em destaque:
